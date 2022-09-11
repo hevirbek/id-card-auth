@@ -15,7 +15,7 @@ def load_model():
 reader = load_model()
 
 
-@dataclass
+@dataclass(slots=True)
 class Citizen:
     identity_no: str = None
     name: str = None
