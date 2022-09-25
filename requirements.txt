@@ -2,3 +2,4 @@ easyocr
 gunicorn
 Pillow
 flask
+flask_cors
