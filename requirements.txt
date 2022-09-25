@@ -1,3 +1,4 @@
 easyocr
+gunicorn
 Pillow
 flask
